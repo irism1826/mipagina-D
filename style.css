@@ -1,0 +1,23 @@
+
+body {
+    background: pink;
+    text-align:center
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    color: darkslategray
+    
+  }
+  .fad1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h2{
+    color: blueviolet
+    
+      }
+  a { font-size: 20px; border-style: solid; border-color: darkblue; border-width: 2px; padding: 10px; }
+  img { border: 10px solid lightgrey; border-radius: 20px; width:350px; }
